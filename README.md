@@ -31,8 +31,11 @@ Spring Boot Starter Dependencies: Utilizes:
 
 
 spring-boot-starter-data-jpa for data access.
+
 spring-boot-starter-mail for email functionality.
+
 spring-boot-starter-web for building web applications.
+
 Database Connection: Uses mysql-connector-j to connect to MySQL for runtime database operations.
 
 
