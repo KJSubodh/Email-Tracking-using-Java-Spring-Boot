@@ -72,14 +72,25 @@ cURL: Perform API requests using cURL from the command line.
 Database
 
 
-The application integrates with a MySQL database to manage email records. The database is automatically updated with:
+The application integrates with a MySQL database to manage email records. 
+
+The database is automatically updated with:
 
 Time Sent: When the email was sent.
+
 Delivery Status: Whether the email was delivered successfully.
+
 Subject: The subject line of the email.
+
 Dependencies
+
 Spring Boot Starter Data JPA: For working with databases and ORM.
+
 Spring Boot Starter Mail: For email sending capabilities.
+
 Spring Boot Starter Web: For creating web applications.
+
 MySQL Connector/J: For MySQL database connectivity.
+
 Spring Boot Starter Test: For testing the application.
+
