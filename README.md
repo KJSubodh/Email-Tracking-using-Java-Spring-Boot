@@ -35,7 +35,7 @@ Testing: Includes spring-boot-starter-test for unit and integration testing to e
 Getting Started
 
 
-Clone the Repository : git clone https://github.com/KJSubodh/Email-Sending-using-REST-API-using-Spring-Boot.git
+Clone the Repository : git clone [https://github.com/KJSubodh/Email-Sending-using-REST-API-using-Spring-Boot.git](https://github.com/KJSubodh/Email-Tracking-using-Java-Spring-Boot)
 
 
 Navigate to the Project Directory: cd Email-Sending-using-REST-API-using-Spring-Boot
