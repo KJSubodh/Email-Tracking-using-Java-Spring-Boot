@@ -26,7 +26,9 @@ Delivery Status: Information on whether the email was successfully delivered.
 Subject: The subject line of the email.
 
 
-Spring Boot Starter Dependencies: Utilizes:
+Spring Boot Starter Dependencies: 
+
+Utilizes:
 
 
 
