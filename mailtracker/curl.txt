@@ -1,0 +1,16 @@
+curl -X POST "http://localhost:8080/api/emails/send" ^
+-H "Content-Type: application/json" ^
+-d "{\"sender\":\"limitless6eyesuser@gmail.com\",\"recipients\":[\"kjsubodh@gmail.com\"],\"subject\":\"Test Subject\",\"content\":\"This is a test email content.\"}"
+
+curl -X POST "http://localhost:8080/api/emails/send" ^
+-H "Content-Type: application/json" ^
+-d "{\"sender\":\"limitless6eyesuser@gmail.com\",\"recipients\":[\"subodhkj516@gmail.com\"],\"subject\":\"Test Subject\",\"content\":\"This is a test email content.\"}"
+
+curl -X POST "http://localhost:8080/api/emails/send" ^
+-H "Content-Type: application/json" ^
+-d "{\"sender\":\"limitless6eyesuser@gmail.com\",\"recipients\":[\"damianrobinwayne1@gmail.com\"],\"subject\":\"Test Subject\",\"content\":\"This is a test email content.\"}"
+
+
+curl -X POST "http://localhost:8080/api/emails/send" ^
+-H "Content-Type: application/json" ^
+-d "{\"sender\":\"limitless6eyesuser@gmail.com\",\"recipients\":[\"damianrobinwayne1@gmail.com\", \"kjsubodh@gmail.com\", \"subodhkj516@gmail.com\"],\"subject\":\"Test Subject\",\"content\":\"This is a test email content.\"}"
